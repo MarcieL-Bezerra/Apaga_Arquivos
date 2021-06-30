@@ -7,7 +7,7 @@ import pandas as pd
 
 tinicial = tk.Tk()
 tinicial.geometry("800x500+200+100")
-tinicial.title("JUNTA ARQUIVOS - SIS")
+tinicial.title("APAGA ARQUIVOS - SIS")
 tinicial.resizable(width=False, height=False)
 tinicial['bg'] = '#49A'
 tinicial.iconphoto(True, PhotoImage(file='./arquivos/junta.png'))
